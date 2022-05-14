@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/caglagurcer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook" />
 </a>
-
+<hr />
 <br>
+
 
 <p align="center"> 
   ⚡️ Visitors Count ⚡️<br>
