@@ -1,4 +1,4 @@
-### Hello Universe 🪐 I am mommy of the computer universe 💫
+### Hello Universe 🪐 I am mommy of the Software Universe 💫
 
 <!--
 **caglagurcer/caglagurcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
