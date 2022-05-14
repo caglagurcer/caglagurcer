@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook)]
+
 <br>
+
 <p align="center"> 
  ⚡ Visitors Count ⚡<br>
   <img src="https://profile-counter.glitch.me/caglagurcer/count.svg" />
