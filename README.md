@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true)
+<a href="https://github.com/caglagurcer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook)
+<a href="https://github.com/caglagurcer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook" />
+</a>
 
 <br>
 
 <p align="center"> 
-  ⚡ Visitors Count ⚡<br>
+  Visitors Count<br>
   <img src="https://profile-counter.glitch.me/caglagurcer/count.svg" />
 </p>
