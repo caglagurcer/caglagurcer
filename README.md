@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 </a>
 <hr />
 <br>
-<br>
 
 <p align="center"> 
   ⚡️ Visitors Count ⚡️<br>
