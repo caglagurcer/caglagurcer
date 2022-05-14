@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook)]
 
 <p align="center"> 
-  **Visitors Count**<br>
+ ⚡ Visitors Count ⚡<br>
   <img src="https://profile-counter.glitch.me/caglagurcer/count.svg" />
 </p>
