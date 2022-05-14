@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  Visitors Count<br>
+  ⚡️ Visitors Count<br> ⚡️
   <img src="https://profile-counter.glitch.me/caglagurcer/count.svg" />
 </p>
