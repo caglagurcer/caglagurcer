@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_darkhide=jupyter%20notebook)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglagurcer&theme=ocean_dark&hide=jupyter%20notebook)]
