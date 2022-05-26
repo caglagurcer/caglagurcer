@@ -44,3 +44,21 @@ Here are some ideas to get you started:
   ⚡️ Visitors Count ⚡️<br>
   <img src="https://profile-counter.glitch.me/caglagurcer/count.svg" />
 </p>
+
+<h3> Extra Pins </h3>
+
+<a href="https://github.com/caglagurcer/Flask-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=Flask-Portfolio&theme=radical" />
+</a>
+
+<a href="https://github.com/caglagurcer/Django-Blog-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=Django-Blog-App&theme=radical" />
+</a>
+
+<a href="https://github.com/caglagurcer/NYT-best-sellers-scraping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=NYT-best-sellers-scraping&theme=radical" />
+</a>
+
+<a href="https://github.com/caglagurcer/Github-Rest-Api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=Github-Rest-Api&theme=radical" />
+</a>
