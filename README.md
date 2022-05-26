@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/caglagurcer/Github-Rest-Api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=Github-Rest-Api&theme=radical" />
 </a>
-<br>
+<br><br><br>
 
 <p align="center">
   <a href="https://www.codewars.com/users/caglagurcer" target="_blank">
