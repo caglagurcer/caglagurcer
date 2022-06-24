@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <hr/>
-🌎 **My Languages** 🌍
+🌎 My Languages 🌍
 <hr>
 
 
