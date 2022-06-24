@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="40" src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
+<hr/>
+
+🌎 **My Languages** 🌍
+![tn_tu-flag](https://user-images.githubusercontent.com/86996274/175538792-1df4e93f-c6aa-4315-8729-511f4d414d6b.gif)
+![tn_us-flag](https://user-images.githubusercontent.com/86996274/175538799-b7ef78ae-fae7-40ee-99e5-cecaa37586c7.gif)
+![tn_gm-flag](https://user-images.githubusercontent.com/86996274/175538801-f7335fc5-b956-4148-b6d9-9f333c76bef4.gif)
 
 
 <hr/>
