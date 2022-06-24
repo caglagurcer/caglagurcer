@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <hr/>
 
 🌎 **My Languages** 🌍
-![tn_tu-flag](https://user-images.githubusercontent.com/86996274/175538792-1df4e93f-c6aa-4315-8729-511f4d414d6b.gif)
-![tn_us-flag](https://user-images.githubusercontent.com/86996274/175538799-b7ef78ae-fae7-40ee-99e5-cecaa37586c7.gif)
-![tn_gm-flag](https://user-images.githubusercontent.com/86996274/175538801-f7335fc5-b956-4148-b6d9-9f333c76bef4.gif)
+
 
 
 <hr/>
