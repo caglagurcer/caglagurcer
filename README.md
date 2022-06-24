@@ -30,14 +30,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <hr/>
 
-🌎 **My Languages** 🌍
-<code><img height="40" src="[detailLabel.text = flag.emoji // TR](https://cdn-icons-png.flaticon.com/512/321/321233.png)"></code>
-<code><img height="40" src=""></code>
-<code><img height="40" src=""></code>
-
-
-<hr/>
-
 <a href="https://github.com/caglagurcer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true" />
 </a>
