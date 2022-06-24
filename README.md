@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <hr/>
 
 🌎 **My Languages** 🌍
-<code><img height="40" src="detailLabel.text = flag.emoji // TR
-"></code>
+<code><img height="40" src="[detailLabel.text = flag.emoji // TR](https://cdn-icons-png.flaticon.com/512/321/321233.png)"></code>
 <code><img height="40" src=""></code>
 <code><img height="40" src=""></code>
 
