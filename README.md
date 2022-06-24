@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⭐️ **Languages and Tools** ⭐️
-
+<hr>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
@@ -29,6 +29,15 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <hr/>
+🌎 **My Languages** 🌍
+<hr>
+
+
+![turkey](https://user-images.githubusercontent.com/86996274/175541811-2662d6b2-7433-4908-95a3-4c588d81c1dc.png)
+![united-states](https://user-images.githubusercontent.com/86996274/175541768-d13b3dd6-cd79-487f-a89d-39a3a11ba7f0.png)
+![germany](https://user-images.githubusercontent.com/86996274/175541764-6d2e116c-fe88-4518-a6d1-59c8f16a6ff7.png)
+
+<hr>
 
 <a href="https://github.com/caglagurcer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caglagurcer&theme=ocean_dark&show_icons=true" />
