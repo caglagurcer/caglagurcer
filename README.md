@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <hr/>
 
 🌎 **My Languages** 🌍
-<code><img height="40" src="![tn_us-flag](https://user-images.githubusercontent.com/86996274/175539379-55d6fe9e-3920-4cb0-8a78-805153257bd5.gif)
+<code><img height="40" src="detailLabel.text = flag.emoji // TR
 "></code>
 <code><img height="40" src=""></code>
 <code><img height="40" src=""></code>
