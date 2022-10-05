@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <h3> Extra Pins </h3>
 
-<a href="https://github.com/caglagurcer/Flask-Portfolio">
+<a href="https://github.com/caglagurcer/Demon-Slayer-Shopping-Site ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caglagurcer&repo=Flask-Portfolio&theme=radical" />
 </a>
 
