@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![turkey](https://user-images.githubusercontent.com/86996274/175541811-2662d6b2-7433-4908-95a3-4c588d81c1dc.png)
 ![united-states](https://user-images.githubusercontent.com/86996274/175541768-d13b3dd6-cd79-487f-a89d-39a3a11ba7f0.png)
 ![germany](https://user-images.githubusercontent.com/86996274/175541764-6d2e116c-fe88-4518-a6d1-59c8f16a6ff7.png)
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="a"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#a)"><path fill="#d80027" d="M0 0h512v128l-39.8 130.3L512 384v128H0V384l37.8-124L0 128z"/><path fill="#ffda44" d="M0 128h512v256H0z"/></g></svg>
 
 <hr>
 
